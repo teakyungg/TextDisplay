@@ -1,0 +1,21 @@
+/* 기본 틀 */
+/* 다른 프로젝트에서 css값을 변경시 값이 변경됨을 확인함 */
+
+.text_display {
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+
+    background-color: lightgray;
+}
+
+.text_display h2,
+.text_display p {
+    margin: 0;
+}
+
+
+.display_contents
+{
+    margin-top: 10px;
+}
